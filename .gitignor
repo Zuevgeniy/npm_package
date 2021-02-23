@@ -84,4 +84,11 @@ typings/
 .fusebox/
 
 # DynamoDB Local files
+<<<<<<< HEAD
 .dynamodb/
+
+# Babel directory result
+dist/
+=======
+.dynamodb/
+>>>>>>> 4f94ca095ad0498be5d889e9f2191c6933d8c53d
